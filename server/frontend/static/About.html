@@ -1,68 +1,82 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
   <!-- Link the style sheet here -->
+  <link rel="stylesheet" href="/static/style.css">
+  <link rel="stylesheet" href="/static/bootstrap.min.css">
 </head>
-<div>
-  <nav class="navbar navbar-expand-lg navbar-light" style="background-color:darkturquoise; height: 1in;">
+
+<body>
+  <nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
-      <h2 style="padding-right: 5%;">Dealerships</h2>
+      <h2 class="me-4">Dealerships</h2> <!-- Add margin-end for spacing -->
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarText">
-        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <ul class="navbar-nav ms-auto mb-2 mb-lg-0"> <!-- Use ms-auto to push the nav items to the right -->
           <li class="nav-item">
-            <a class="nav-link" style="font-size: larger;" aria-current="page" href="/">Home</a>
+            <a class="nav-link" href="/">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" style="font-size: larger;" href="/about">About Us</a>
+            <a class="nav-link active" href="/about">About Us</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" style="font-size: larger;" href="/contact">Contact Us</a>
+            <a class="nav-link" href="/contact">Contact Us</a>
           </li>
         </ul>
       </div>
     </div>
   </nav>
-  
-    <div class="card" style="width: 80%;margin: auto; margin-top:5%;">
-      <div class="banner" name="about-header">
-      <!-- Insert header information here -->
-      </div>
-      <div style="display: flex;flex-direction: row; margin:auto">
-      <div class="card" style="width: 30%;">
-        <img class="card-img-top" src="/static/person.png" alt="Card image">
-        <div class="card-body">
-          <p class="title">Person1</p>
-          <p>Person1 Title</p>
-          <p class="card-text">Some text that explains the person1 in about 2 short sentences</p>
-          <p>person1@example.com</p>
+
+  <div class="container m-5 mx-auto">
+    <div class="about-header text-center mb-4">
+      <h1>About Us</h1>
+      <p>Welcome to Best Cars dealership, home to the best cars in North America. We deal in the sale of domestic and imported cars at reasonable prices.</p>
+    </div>
+
+    <div class="row justify-content-center">
+      <!-- John Mitchell Card -->
+      <div class="col-md-4 mb-4">
+        <div class="card shadow h-100">
+          <img class="card-img-top rounded-circle mx-auto d-block mt-3" src="/static/sales_1.jpg" alt="John Mitchell" style="width: 150px; height: 150px; object-fit: cover;">
+          <div class="card-body d-flex flex-column justify-content-between text-center">
+            <h5 class="card-title">John Mitchell</h5>
+            <p class="text-muted">Senior Sales Consultant</p>
+            <p class="card-text">John has over a decade of experience in the automotive industry and is known for his friendly approach and in-depth knowledge of all things cars. He’s dedicated to helping customers find the right vehicle that fits their needs and budget.</p>
+            <a href="mailto:john.mitchell@premierautosales.com" class="btn btn-outline-primary mt-auto">Contact John</a>
+          </div>
         </div>
       </div>
 
-      <div class="card" style="width: 30%;">
-        <img class="card-img-top" src="/static/person.png" alt="Card image">
-        <div class="card-body">
-          <p class="title">Person2</p>
-          <p>Person2 Title</p>
-          <p class="card-text">Some text that explains the person2 in about 2 short sentences</p>
-          <p>person2@example.com</p>
+      <!-- Sarah Bennett Card -->
+      <div class="col-md-4 mb-4">
+        <div class="card shadow h-100">
+          <img class="card-img-top rounded-circle mx-auto d-block mt-3" src="/static/sales_3.jpg" alt="Sarah Bennett" style="width: 150px; height: 150px; object-fit: cover;">
+          <div class="card-body d-flex flex-column justify-content-between text-center">
+            <h5 class="card-title">Sarah Bennett</h5>
+            <p class="text-muted">Sales Manager</p>
+            <p class="card-text">Sarah brings a fresh perspective to car sales with her enthusiastic personality and passion for helping customers. As our Sales Manager, she’s known for her attention to detail and exceptional customer service, ensuring a smooth and enjoyable buying process every time.</p>
+            <a href="mailto:sarah.bennett@premierautosales.com" class="btn btn-outline-primary mt-auto">Contact Sarah</a>
+          </div>
         </div>
       </div>
 
-      <div class="card" style="width: 30%;">
-        <img class="card-img-top" src="/static/person.png" alt="Card image">
-        <div class="card-body">
-          <p class="title">Person3</p>
-          <p>Person3 Title</p>
-          <p class="card-text">Some text that explains the person3 in about 2 short sentences</p>
-          <p>person3@example.com</p>
+      <!-- Mark Davidson Card -->
+      <div class="col-md-4 mb-4">
+        <div class="card shadow h-100">
+          <img class="card-img-top rounded-circle mx-auto d-block mt-3" src="/static/sales_2.jpg" alt="Mark Davidson" style="width: 150px; height: 150px; object-fit: cover;">
+          <div class="card-body d-flex flex-column justify-content-between text-center">
+            <h5 class="card-title">Mark Davidson</h5>
+            <p class="text-muted">Finance Specialist</p>
+            <p class="card-text">Mark is a seasoned professional with a reputation for integrity and honesty. As our Finance Specialist, his straightforward approach and dedication to finding the best deals make him a favorite among our loyal customers.</p>
+            <a href="mailto:mark.davidson@premierautosales.com" class="btn btn-outline-primary mt-auto">Contact Mark</a>
+          </div>
         </div>
       </div>
     </div>
-    </div>
-    </div>
-    
-</div>
+  </div>
+</body>
 
 </html>
