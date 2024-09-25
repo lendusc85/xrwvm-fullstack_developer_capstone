@@ -52,15 +52,7 @@ jobs:
       - name: Install ESLint
         run: npm install eslint --global
 
-      - name: Set up ESLint
+      - name: Run ESLint
         run: |
-          # Initialize ESLint if not already configured in the project
-          if [ ! -f eslint.config.js ] && [ ! -f eslint.config.json ]; then
-            npm init @eslint/config@latest
-          fi
-
-      - name: Run Linter
-        run: |
-          # This command finds all JavaScript files recursively and runs JSHint on them
-          find ./server/database -name "*.js" -exec eslint {} +
-          echo "Linted all the js files successfully"
+          find ./server/database -name "*.js" -exec eslint --config eslint.config.js {} +
+          echo "Linted all the python files successfull"
