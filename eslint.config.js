@@ -1,4 +1,3 @@
-// eslint.config.js
 module.exports = [
   {
     files: ["**/*.js"],
@@ -7,8 +6,13 @@ module.exports = [
       sourceType: "module",
     },
     rules: {
-      semi: ["error", "always"],
-      quotes: ["error", "single"],
+      "semi": "error",
+      "quotes": ["error", "single"],
+      "camelcase": "error",
+      "no-plusplus": "error",
+      "no-multiple-empty-lines": "error",
+      "no-unused-vars": "error",
+      "no-duplicate-imports": "error"
     },
   },
 ];
