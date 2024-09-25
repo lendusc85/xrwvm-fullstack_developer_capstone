@@ -12,20 +12,18 @@ sentiment_analyzer_url = os.getenv(
     default="http://localhost:8080/")
 
 def get_request(endpoint, **kwargs):
-# Add code for get requests to back end
-    params = ""
-    if(kwargs):
-        for key,value in kwargs.items():
-            params=params+key+"="+value+"&"
-
-    request_url = backend_url+endpoint+"?"+params
-
-    print("GET from {} ".format(request_url))
+    request_url = backend_url + endpoint
+    print(f"GET from {request_url} with params: {kwargs}")  # Improved logging
     try:
-        response = requests.get(request_url)
-        return response.json()
-    except:
-        print("Network exception occurred")
+        # Use the 'params' argument for query parameters to handle encoding
+        response = requests.get(request_url, params=kwargs)
+        response.raise_for_status()  # Raise an error for HTTP errors
+        data = response.json()  # Parse the JSON response
+        print("Fetched data:", data)  # Log the fetched data
+        return data
+    except requests.exceptions.RequestException as e:
+        print(f"Network exception occurred: {e}")
+        return []  # Return an empty list on error
 
 def analyze_review_sentiments(text):
     request_url = sentiment_analyzer_url+"analyze/"+text
