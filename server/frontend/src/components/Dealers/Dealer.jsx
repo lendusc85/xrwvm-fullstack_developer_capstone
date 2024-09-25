@@ -75,6 +75,7 @@ const Dealer = () => {
     if (sessionStorage.getItem("username")) {
       setShowPostReview(true);
     }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []); // Empty dependencies array ensures the effect only runs once on mount
 
   return (

@@ -55,7 +55,7 @@ jobs:
       - name: Set up ESLint
         run: |
           # Initialize ESLint if not already configured in the project
-          if [ ! -f .eslintrc.js ] && [ ! -f .eslintrc.json ]; then
+          if [ ! -f eslint.config.js ] && [ ! -f eslint.config.json ]; then
             npx eslint --init
           fi
 

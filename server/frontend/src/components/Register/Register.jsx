@@ -1,8 +1,5 @@
 import React, { useState } from "react";
 import "./Register.css";
-import user_icon from "../assets/person.png"
-import email_icon from "../assets/email.png"
-import password_icon from "../assets/password.png"
 import { PersonFill, EnvelopeFill, LockFill, X } from 'react-bootstrap-icons';
 
 const Register = () => {
