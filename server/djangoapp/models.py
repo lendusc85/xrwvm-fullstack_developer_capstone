@@ -1,7 +1,6 @@
 # Uncomment the following imports before adding the Model code
 
 from django.db import models
-from django.utils.timezone import now
 from django.core.validators import MaxValueValidator, MinValueValidator
 
 
@@ -20,10 +19,15 @@ class CarMake(models.Model):
         MinValueValidator(1800),
         MaxValueValidator(2023)
     ])
-    logo = models.ImageField(upload_to='car_makes_logos/', blank=True, null=True)
+    logo = models.ImageField(upload_to='car_makes_logos/', blank=True,
+                             null=True)
 
     def __str__(self):
-        return f"{self.name} ({self.country_of_origin})" if self.country_of_origin else self.name
+        return (
+            f"{self.name} ({self.country_of_origin})"
+            if self.country_of_origin
+            else self.name
+        )
 
 
 # <HINT> Create a Car Model model `class CarModel(models.Model):`:
@@ -54,7 +58,8 @@ class CarModel(models.Model):
                                    MaxValueValidator(2023),
                                    MinValueValidator(2015)
                                ])
-    price = models.DecimalField(max_digits=10, decimal_places=2, blank=True, null=True)
+    price = models.DecimalField(max_digits=10, decimal_places=2, blank=True,
+                                null=True)
     fuel_type = models.CharField(
         max_length=20,
         choices=[
@@ -70,4 +75,3 @@ class CarModel(models.Model):
 
     def __str__(self):
         return f"{self.name} - {self.type} ({self.year})"
-    

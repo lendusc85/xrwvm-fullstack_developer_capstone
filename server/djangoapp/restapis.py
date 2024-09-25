@@ -1,6 +1,7 @@
 # Uncomment the imports below before you add the function code
 import requests
 import os
+from requests.exceptions import RequestException
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -10,6 +11,7 @@ backend_url = os.getenv(
 sentiment_analyzer_url = os.getenv(
     'sentiment_analyzer_url',
     default="http://localhost:8080/")
+
 
 def get_request(endpoint, **kwargs):
     request_url = backend_url + endpoint
@@ -25,6 +27,7 @@ def get_request(endpoint, **kwargs):
         print(f"Network exception occurred: {e}")
         return []  # Return an empty list on error
 
+
 def analyze_review_sentiments(text):
     request_url = sentiment_analyzer_url+"analyze/"+text
     try:
@@ -38,8 +41,11 @@ def analyze_review_sentiments(text):
 def post_review(data_dict):
     request_url = backend_url+"/insert_review"
     try:
-        response = requests.post(request_url,json=data_dict)
+        response = requests.post(request_url, json=data_dict)
         print(response.json())
         return response.json()
-    except:
-        print("Network exception occurred")
+    except RequestException as e:
+        return {"error": "Network exception occurred", "details": str(e)}
+    except Exception as e:
+        print(f"An unexpected error occurred: {e}")
+        return {"error": "Unexpected error occurred", "details": str(e)}
