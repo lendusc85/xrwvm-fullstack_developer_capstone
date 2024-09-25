@@ -56,7 +56,7 @@ jobs:
         run: |
           # Initialize ESLint if not already configured in the project
           if [ ! -f eslint.config.js ] && [ ! -f eslint.config.json ]; then
-            npx eslint --init
+            npm init @eslint/config@latest
           fi
 
       - name: Run Linter
