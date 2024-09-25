@@ -84,7 +84,7 @@ const Dealer = () => {
       <div style={{ marginTop: "10px" }}>
         {/* Conditional rendering to avoid accessing properties of undefined */}
         <h1 style={{ color: "grey" }}>
-          {dealer ? dealer.full_name || "Dealer Name Not Found" : "Loading Dealer..."}
+          {dealer ? dealer.fullName || "Dealer Name Not Found" : "Loading Dealer..."}
           {showPostReview && (
             <a href={post_review_url}>
               <img
@@ -110,7 +110,7 @@ const Dealer = () => {
               <img src={sentiIcon(review.sentiment)} className="emotion_icon" alt="Sentiment" />
               <div className="review">{review.review}</div>
               <div className="reviewer">
-                {review.name} {review.car_make} {review.car_model} {review.car_year}
+                {review.name} {review.carMake} {review.carModel} {review.carYear}
               </div>
             </div>
           ))

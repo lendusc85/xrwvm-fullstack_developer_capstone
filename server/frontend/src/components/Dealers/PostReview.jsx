@@ -41,10 +41,10 @@ const PostReview = () => {
       "dealership": id,
       "review": review,
       "purchase": true,
-      "purchase_date": date,
-      "car_make": make_chosen,
-      "car_model": model_chosen,
-      "car_year": year,
+      "purchaseDate": date,
+      "carMake": make_chosen,
+      "carModel": model_chosen,
+      "carYear": year,
     });
 
     console.log(jsoninput);
@@ -95,7 +95,7 @@ const PostReview = () => {
     <div>
       <Header/>
       <div  style={{margin:"5%"}}>
-      <h1 style={{color:"darkblue"}}>{dealer.full_name}</h1>
+      <h1 style={{color:"darkblue"}}>{dealer.fullName}</h1>
       <textarea id='review' cols='50' rows='7' onChange={(e) => setReview(e.target.value)}></textarea>
       <div className='input_field'>
       Purchase Date <input type="date" onChange={(e) => setDate(e.target.value)}/>

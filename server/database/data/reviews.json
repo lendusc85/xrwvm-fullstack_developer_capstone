@@ -6,10 +6,10 @@
       "dealership": 15,
       "review": "Total grid-enabled service-desk",
       "purchase": true,
-      "purchase_date": "07/11/2020",
-      "car_make": "Audi",
-      "car_model": "A6",
-      "car_year": 2010
+      "purchaseDate": "07/11/2020",
+      "carMake": "Audi",
+      "carModel": "A6",
+      "carYear": 2010
     },
     {
       "id": 2,
@@ -17,10 +17,10 @@
       "dealership": 23,
       "review": "Future-proofed foreground capability",
       "purchase": true,
-      "purchase_date": "09/17/2020",
-      "car_make": "Pontiac",
-      "car_model": "Firebird",
-      "car_year": 1995
+      "purchaseDate": "09/17/2020",
+      "carMake": "Pontiac",
+      "carModel": "Firebird",
+      "carYear": 1995
     },
     {
       "id": 3,
@@ -28,10 +28,10 @@
       "dealership": 29,
       "review": "Expanded global groupware",
       "purchase": true,
-      "purchase_date": "10/20/2020",
-      "car_make": "Mazda",
-      "car_model": "MX-5",
-      "car_year": 2003
+      "purchaseDate": "10/20/2020",
+      "carMake": "Mazda",
+      "carModel": "MX-5",
+      "carYear": 2003
     },
     {
       "id": 4,
@@ -39,10 +39,10 @@
       "dealership": 13,
       "review": "Optional heuristic software",
       "purchase": false,
-      "purchase_date": "03/28/2020",
-      "car_make": "Kia",
-      "car_model": "Spectra",
-      "car_year": 2002
+      "purchaseDate": "03/28/2020",
+      "carMake": "Kia",
+      "carModel": "Spectra",
+      "carYear": 2002
     },
     {
       "id": 5,
@@ -50,10 +50,10 @@
       "dealership": 46,
       "review": "Diverse client-server success",
       "purchase": false,
-      "purchase_date": "04/12/2020",
-      "car_make": "GMC",
-      "car_model": "Yukon",
-      "car_year": 1992
+      "purchaseDate": "04/12/2020",
+      "carMake": "GMC",
+      "carModel": "Yukon",
+      "carYear": 1992
     },
     {
       "id": 6,
@@ -61,10 +61,10 @@
       "dealership": 49,
       "review": "Re-contextualized leading edge software",
       "purchase": true,
-      "purchase_date": "10/05/2020",
-      "car_make": "Chevrolet",
-      "car_model": "Aveo",
-      "car_year": 2007
+      "purchaseDate": "10/05/2020",
+      "carMake": "Chevrolet",
+      "carModel": "Aveo",
+      "carYear": 2007
     },
     {
       "id": 7,
@@ -72,10 +72,10 @@
       "dealership": 11,
       "review": "Synergistic cohesive budgetary management",
       "purchase": false,
-      "purchase_date": "05/17/2020",
-      "car_make": "Toyota",
-      "car_model": "4Runner",
-      "car_year": 1994
+      "purchaseDate": "05/17/2020",
+      "carMake": "Toyota",
+      "carModel": "4Runner",
+      "carYear": 1994
     },
     {
       "id": 8,
@@ -83,10 +83,10 @@
       "dealership": 17,
       "review": "Polarised asynchronous Graphical User Interface",
       "purchase": true,
-      "purchase_date": "05/06/2020",
-      "car_make": "BMW",
-      "car_model": "530",
-      "car_year": 2006
+      "purchaseDate": "05/06/2020",
+      "carMake": "BMW",
+      "carModel": "530",
+      "carYear": 2006
     },
     {
       "id": 9,
@@ -94,10 +94,10 @@
       "dealership": 41,
       "review": "Proactive bottom-line attitude",
       "purchase": true,
-      "purchase_date": "07/05/2020",
-      "car_make": "Cadillac",
-      "car_model": "Escalade ESV",
-      "car_year": 2003
+      "purchaseDate": "07/05/2020",
+      "carMake": "Cadillac",
+      "carModel": "Escalade ESV",
+      "carYear": 2003
     },
     {
       "id": 10,
@@ -105,10 +105,10 @@
       "dealership": 22,
       "review": "Distributed transitional policy",
       "purchase": false,
-      "purchase_date": "05/18/2020",
-      "car_make": "Dodge",
-      "car_model": "Ram Van 3500",
-      "car_year": 1997
+      "purchaseDate": "05/18/2020",
+      "carMake": "Dodge",
+      "carModel": "Ram Van 3500",
+      "carYear": 1997
     },
     {
       "id": 11,
@@ -116,10 +116,10 @@
       "dealership": 13,
       "review": "Reactive background implementation",
       "purchase": true,
-      "purchase_date": "11/06/2020",
-      "car_make": "Audi",
-      "car_model": "A6",
-      "car_year": 1999
+      "purchaseDate": "11/06/2020",
+      "carMake": "Audi",
+      "carModel": "A6",
+      "carYear": 1999
     },
     {
       "id": 12,
@@ -127,10 +127,10 @@
       "dealership": 28,
       "review": "Cloned clear-thinking strategy",
       "purchase": true,
-      "purchase_date": "10/14/2020",
-      "car_make": "Saab",
-      "car_model": "9-5",
-      "car_year": 1999
+      "purchaseDate": "10/14/2020",
+      "carMake": "Saab",
+      "carModel": "9-5",
+      "carYear": 1999
     },
     {
       "id": 13,
@@ -138,10 +138,10 @@
       "dealership": 42,
       "review": "Multi-channelled secondary archive",
       "purchase": true,
-      "purchase_date": "07/25/2020",
-      "car_make": "Lotus",
-      "car_model": "Exige",
-      "car_year": 2004
+      "purchaseDate": "07/25/2020",
+      "carMake": "Lotus",
+      "carModel": "Exige",
+      "carYear": 2004
     },
     {
       "id": 14,
@@ -149,10 +149,10 @@
       "dealership": 45,
       "review": "Customer-focused responsive moderator",
       "purchase": true,
-      "purchase_date": "09/17/2020",
-      "car_make": "Alfa Romeo",
-      "car_model": "Spider",
-      "car_year": 1994
+      "purchaseDate": "09/17/2020",
+      "carMake": "Alfa Romeo",
+      "carModel": "Spider",
+      "carYear": 1994
     },
     {
       "id": 15,
@@ -160,10 +160,10 @@
       "dealership": 27,
       "review": "Upgradable neutral matrix",
       "purchase": false,
-      "purchase_date": "12/31/2020",
-      "car_make": "BMW",
-      "car_model": "550",
-      "car_year": 2006
+      "purchaseDate": "12/31/2020",
+      "carMake": "BMW",
+      "carModel": "550",
+      "carYear": 2006
     },
     {
       "id": 16,
@@ -171,10 +171,10 @@
       "dealership": 34,
       "review": "Seamless exuding budgetary management",
       "purchase": true,
-      "purchase_date": "02/05/2021",
-      "car_make": "Ford",
-      "car_model": "F-Series",
-      "car_year": 2007
+      "purchaseDate": "02/05/2021",
+      "carMake": "Ford",
+      "carModel": "F-Series",
+      "carYear": 2007
     },
     {
       "id": 17,
@@ -182,10 +182,10 @@
       "dealership": 45,
       "review": "Distributed intermediate methodology",
       "purchase": false,
-      "purchase_date": "01/13/2021",
-      "car_make": "BMW",
-      "car_model": "Z3",
-      "car_year": 2001
+      "purchaseDate": "01/13/2021",
+      "carMake": "BMW",
+      "carModel": "Z3",
+      "carYear": 2001
     },
     {
       "id": 18,
@@ -193,10 +193,10 @@
       "dealership": 40,
       "review": "Function-based non-volatile throughput",
       "purchase": true,
-      "purchase_date": "06/20/2020",
-      "car_make": "Ford",
-      "car_model": "Taurus",
-      "car_year": 1996
+      "purchaseDate": "06/20/2020",
+      "carMake": "Ford",
+      "carModel": "Taurus",
+      "carYear": 1996
     },
     {
       "id": 19,
@@ -204,10 +204,10 @@
       "dealership": 2,
       "review": "Profound discrete definition",
       "purchase": false,
-      "purchase_date": "11/14/2020",
-      "car_make": "Mercedes-Benz",
-      "car_model": "S-Class",
-      "car_year": 2003
+      "purchaseDate": "11/14/2020",
+      "carMake": "Mercedes-Benz",
+      "carModel": "S-Class",
+      "carYear": 2003
     },
     {
       "id": 20,
@@ -215,10 +215,10 @@
       "dealership": 25,
       "review": "De-engineered static customer loyalty",
       "purchase": false,
-      "purchase_date": "01/12/2021",
-      "car_make": "BMW",
-      "car_model": "M5",
-      "car_year": 2008
+      "purchaseDate": "01/12/2021",
+      "carMake": "BMW",
+      "carModel": "M5",
+      "carYear": 2008
     },
     {
       "id": 21,
@@ -226,10 +226,10 @@
       "dealership": 31,
       "review": "Configurable attitude-oriented core",
       "purchase": true,
-      "purchase_date": "10/23/2020",
-      "car_make": "Mitsubishi",
-      "car_model": "Lancer",
-      "car_year": 2010
+      "purchaseDate": "10/23/2020",
+      "carMake": "Mitsubishi",
+      "carModel": "Lancer",
+      "carYear": 2010
     },
     {
       "id": 22,
@@ -237,10 +237,10 @@
       "dealership": 45,
       "review": "Universal real-time archive",
       "purchase": false,
-      "purchase_date": "05/01/2020",
-      "car_make": "Mitsubishi",
-      "car_model": "Endeavor",
-      "car_year": 2004
+      "purchaseDate": "05/01/2020",
+      "carMake": "Mitsubishi",
+      "carModel": "Endeavor",
+      "carYear": 2004
     },
     {
       "id": 23,
@@ -248,10 +248,10 @@
       "dealership": 34,
       "review": "User-centric logistical product",
       "purchase": true,
-      "purchase_date": "06/12/2020",
-      "car_make": "Volkswagen",
-      "car_model": "riolet",
-      "car_year": 1993
+      "purchaseDate": "06/12/2020",
+      "carMake": "Volkswagen",
+      "carModel": "riolet",
+      "carYear": 1993
     },
     {
       "id": 24,
@@ -259,10 +259,10 @@
       "dealership": 35,
       "review": "Object-based multi-state throughput",
       "purchase": false,
-      "purchase_date": "08/30/2020",
-      "car_make": "Mazda",
-      "car_model": "RX-8",
-      "car_year": 2009
+      "purchaseDate": "08/30/2020",
+      "carMake": "Mazda",
+      "carModel": "RX-8",
+      "carYear": 2009
     },
     {
       "id": 25,
@@ -270,10 +270,10 @@
       "dealership": 21,
       "review": "Assimilated encompassing parallelism",
       "purchase": false,
-      "purchase_date": "03/06/2020",
-      "car_make": "Volkswagen",
-      "car_model": "New Beetle",
-      "car_year": 2001
+      "purchaseDate": "03/06/2020",
+      "carMake": "Volkswagen",
+      "carModel": "New Beetle",
+      "carYear": 2001
     },
     {
       "id": 26,
@@ -281,10 +281,10 @@
       "dealership": 46,
       "review": "Reduced explicit frame",
       "purchase": true,
-      "purchase_date": "05/16/2020",
-      "car_make": "Volkswagen",
-      "car_model": "Passat",
-      "car_year": 1987
+      "purchaseDate": "05/16/2020",
+      "carMake": "Volkswagen",
+      "carModel": "Passat",
+      "carYear": 1987
     },
     {
       "id": 27,
@@ -292,10 +292,10 @@
       "dealership": 10,
       "review": "Fully-configurable local workforce",
       "purchase": true,
-      "purchase_date": "04/09/2020",
-      "car_make": "Ford",
-      "car_model": "Explorer Sport Trac",
-      "car_year": 2000
+      "purchaseDate": "04/09/2020",
+      "carMake": "Ford",
+      "carModel": "Explorer Sport Trac",
+      "carYear": 2000
     },
     {
       "id": 28,
@@ -303,10 +303,10 @@
       "dealership": 11,
       "review": "Profound web-enabled approach",
       "purchase": true,
-      "purchase_date": "01/27/2021",
-      "car_make": "Porsche",
-      "car_model": "911",
-      "car_year": 2007
+      "purchaseDate": "01/27/2021",
+      "carMake": "Porsche",
+      "carModel": "911",
+      "carYear": 2007
     },
     {
       "id": 29,
@@ -314,10 +314,10 @@
       "dealership": 22,
       "review": "Vision-oriented analyzing access",
       "purchase": true,
-      "purchase_date": "06/17/2020",
-      "car_make": "Honda",
-      "car_model": "Odyssey",
-      "car_year": 1996
+      "purchaseDate": "06/17/2020",
+      "carMake": "Honda",
+      "carModel": "Odyssey",
+      "carYear": 1996
     },
     {
       "id": 30,
@@ -325,10 +325,10 @@
       "dealership": 18,
       "review": "Persevering asymmetric knowledge user",
       "purchase": true,
-      "purchase_date": "05/23/2020",
-      "car_make": "Mercedes-Benz",
-      "car_model": "CL-Class",
-      "car_year": 2010
+      "purchaseDate": "05/23/2020",
+      "carMake": "Mercedes-Benz",
+      "carModel": "CL-Class",
+      "carYear": 2010
     },
     {
       "id": 31,
@@ -336,10 +336,10 @@
       "dealership": 12,
       "review": "Optional next generation database",
       "purchase": true,
-      "purchase_date": "11/13/2020",
-      "car_make": "Pontiac",
-      "car_model": "GTO",
-      "car_year": 2004
+      "purchaseDate": "11/13/2020",
+      "carMake": "Pontiac",
+      "carModel": "GTO",
+      "carYear": 2004
     },
     {
       "id": 32,
@@ -347,10 +347,10 @@
       "dealership": 22,
       "review": "Organized foreground methodology",
       "purchase": true,
-      "purchase_date": "12/11/2020",
-      "car_make": "Kia",
-      "car_model": "Sedona",
-      "car_year": 2006
+      "purchaseDate": "12/11/2020",
+      "carMake": "Kia",
+      "carModel": "Sedona",
+      "carYear": 2006
     },
     {
       "id": 33,
@@ -358,10 +358,10 @@
       "dealership": 17,
       "review": "Up-sized mission-critical initiative",
       "purchase": true,
-      "purchase_date": "10/31/2020",
-      "car_make": "Pontiac",
-      "car_model": "GTO",
-      "car_year": 2004
+      "purchaseDate": "10/31/2020",
+      "carMake": "Pontiac",
+      "carModel": "GTO",
+      "carYear": 2004
     },
     {
       "id": 34,
@@ -369,10 +369,10 @@
       "dealership": 9,
       "review": "Horizontal disintermediate methodology",
       "purchase": true,
-      "purchase_date": "02/08/2021",
-      "car_make": "Mazda",
-      "car_model": "Mazda6",
-      "car_year": 2013
+      "purchaseDate": "02/08/2021",
+      "carMake": "Mazda",
+      "carModel": "Mazda6",
+      "carYear": 2013
     },
     {
       "id": 35,
@@ -380,10 +380,10 @@
       "dealership": 10,
       "review": "Balanced intangible open architecture",
       "purchase": false,
-      "purchase_date": "08/12/2020",
-      "car_make": "Chevrolet",
-      "car_model": "TrailBlazer",
-      "car_year": 2004
+      "purchaseDate": "08/12/2020",
+      "carMake": "Chevrolet",
+      "carModel": "TrailBlazer",
+      "carYear": 2004
     },
     {
       "id": 36,
@@ -391,10 +391,10 @@
       "dealership": 49,
       "review": "Re-contextualized asynchronous budgetary management",
       "purchase": true,
-      "purchase_date": "10/18/2020",
-      "car_make": "Chevrolet",
-      "car_model": "Suburban 1500",
-      "car_year": 2001
+      "purchaseDate": "10/18/2020",
+      "carMake": "Chevrolet",
+      "carModel": "Suburban 1500",
+      "carYear": 2001
     },
     {
       "id": 37,
@@ -402,10 +402,10 @@
       "dealership": 15,
       "review": "Pre-emptive heuristic solution",
       "purchase": true,
-      "purchase_date": "10/10/2020",
-      "car_make": "Lexus",
-      "car_model": "IS F",
-      "car_year": 2009
+      "purchaseDate": "10/10/2020",
+      "carMake": "Lexus",
+      "carModel": "IS F",
+      "carYear": 2009
     },
     {
       "id": 38,
@@ -413,10 +413,10 @@
       "dealership": 15,
       "review": "Mandatory homogeneous groupware",
       "purchase": true,
-      "purchase_date": "01/06/2021",
-      "car_make": "Saturn",
-      "car_model": "L-Series",
-      "car_year": 2001
+      "purchaseDate": "01/06/2021",
+      "carMake": "Saturn",
+      "carModel": "L-Series",
+      "carYear": 2001
     },
     {
       "id": 39,
@@ -424,10 +424,10 @@
       "dealership": 17,
       "review": "Cross-group multimedia firmware",
       "purchase": false,
-      "purchase_date": "04/29/2020",
-      "car_make": "Buick",
-      "car_model": "Terraza",
-      "car_year": 2006
+      "purchaseDate": "04/29/2020",
+      "carMake": "Buick",
+      "carModel": "Terraza",
+      "carYear": 2006
     },
     {
       "id": 40,
@@ -435,10 +435,10 @@
       "dealership": 42,
       "review": "Right-sized optimizing implementation",
       "purchase": false,
-      "purchase_date": "09/06/2020",
-      "car_make": "Mazda",
-      "car_model": "B-Series",
-      "car_year": 2005
+      "purchaseDate": "09/06/2020",
+      "carMake": "Mazda",
+      "carModel": "B-Series",
+      "carYear": 2005
     },
     {
       "id": 41,
@@ -446,10 +446,10 @@
       "dealership": 23,
       "review": "Advanced motivating benchmark",
       "purchase": true,
-      "purchase_date": "12/20/2020",
-      "car_make": "Isuzu",
-      "car_model": "Rodeo",
-      "car_year": 1999
+      "purchaseDate": "12/20/2020",
+      "carMake": "Isuzu",
+      "carModel": "Rodeo",
+      "carYear": 1999
     },
     {
       "id": 42,
@@ -457,10 +457,10 @@
       "dealership": 44,
       "review": "Pre-emptive modular extranet",
       "purchase": true,
-      "purchase_date": "04/13/2020",
-      "car_make": "Plymouth",
-      "car_model": "Voyager",
-      "car_year": 1998
+      "purchaseDate": "04/13/2020",
+      "carMake": "Plymouth",
+      "carModel": "Voyager",
+      "carYear": 1998
     },
     {
       "id": 43,
@@ -468,10 +468,10 @@
       "dealership": 17,
       "review": "Triple-buffered upward-trending conglomeration",
       "purchase": false,
-      "purchase_date": "08/20/2020",
-      "car_make": "Nissan",
-      "car_model": "Altima",
-      "car_year": 2008
+      "purchaseDate": "08/20/2020",
+      "carMake": "Nissan",
+      "carModel": "Altima",
+      "carYear": 2008
     },
     {
       "id": 44,
@@ -479,10 +479,10 @@
       "dealership": 39,
       "review": "Sharable secondary model",
       "purchase": false,
-      "purchase_date": "07/06/2020",
-      "car_make": "Isuzu",
-      "car_model": "i-350",
-      "car_year": 2006
+      "purchaseDate": "07/06/2020",
+      "carMake": "Isuzu",
+      "carModel": "i-350",
+      "carYear": 2006
     },
     {
       "id": 45,
@@ -490,10 +490,10 @@
       "dealership": 14,
       "review": "Polarised client-driven challenge",
       "purchase": false,
-      "purchase_date": "05/29/2020",
-      "car_make": "Volkswagen",
-      "car_model": "Passat",
-      "car_year": 1996
+      "purchaseDate": "05/29/2020",
+      "carMake": "Volkswagen",
+      "carModel": "Passat",
+      "carYear": 1996
     },
     {
       "id": 46,
@@ -501,10 +501,10 @@
       "dealership": 2,
       "review": "Polarised client-server methodology",
       "purchase": true,
-      "purchase_date": "07/04/2020",
-      "car_make": "BMW",
-      "car_model": "760",
-      "car_year": 2005
+      "purchaseDate": "07/04/2020",
+      "carMake": "BMW",
+      "carModel": "760",
+      "carYear": 2005
     },
     {
       "id": 47,
@@ -512,10 +512,10 @@
       "dealership": 12,
       "review": "Organic user-facing paradigm",
       "purchase": true,
-      "purchase_date": "02/08/2021",
-      "car_make": "Maybach",
-      "car_model": "57",
-      "car_year": 2012
+      "purchaseDate": "02/08/2021",
+      "carMake": "Maybach",
+      "carModel": "57",
+      "carYear": 2012
     },
     {
       "id": 48,
@@ -523,10 +523,10 @@
       "dealership": 6,
       "review": "Intuitive coherent monitoring",
       "purchase": true,
-      "purchase_date": "06/10/2020",
-      "car_make": "Saturn",
-      "car_model": "S-Series",
-      "car_year": 2001
+      "purchaseDate": "06/10/2020",
+      "carMake": "Saturn",
+      "carModel": "S-Series",
+      "carYear": 2001
     },
     {
       "id": 49,
@@ -534,10 +534,10 @@
       "dealership": 7,
       "review": "Self-enabling maximized focus group",
       "purchase": true,
-      "purchase_date": "01/26/2021",
-      "car_make": "Mercedes-Benz",
-      "car_model": "CL-Class",
-      "car_year": 1999
+      "purchaseDate": "01/26/2021",
+      "carMake": "Mercedes-Benz",
+      "carModel": "CL-Class",
+      "carYear": 1999
     },
     {
       "id": 50,
@@ -545,10 +545,10 @@
       "dealership": 34,
       "review": "Stand-alone holistic model",
       "purchase": false,
-      "purchase_date": "05/10/2020",
-      "car_make": "Cadillac",
-      "car_model": "DeVille",
-      "car_year": 1995
+      "purchaseDate": "05/10/2020",
+      "carMake": "Cadillac",
+      "carModel": "DeVille",
+      "carYear": 1995
     }
   ]
 }

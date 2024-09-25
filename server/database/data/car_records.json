@@ -4,7 +4,7 @@
       "model": "Pathfinder",
       "bodyType": "SUV",
       "year": 2023,
-      "dealer_id": 1,
+      "dealerId": 1,
       "mileage": 15000
   },
   {
@@ -12,7 +12,7 @@
       "model": "Seltos",
       "bodyType": "SUV",
       "year": 2022,
-      "dealer_id": 8,
+      "dealerId": 8,
       "mileage": 8000
   },
   {
@@ -20,7 +20,7 @@
       "model": "A4",
       "bodyType": "Sedan",
       "year": 2021,
-      "dealer_id": 15,
+      "dealerId": 15,
       "mileage": 12000
   },
   {
@@ -28,7 +28,7 @@
       "model": "GLE",
       "bodyType": "SUV",
       "year": 2020,
-      "dealer_id": 22,
+      "dealerId": 22,
       "mileage": 5000
   },
   {
@@ -36,7 +36,7 @@
       "model": "Camry",
       "bodyType": "Sedan",
       "year": 2023,
-      "dealer_id": 30,
+      "dealerId": 30,
       "mileage": 10000
   },
   {
@@ -44,7 +44,7 @@
       "model": "Rogue",
       "bodyType": "SUV",
       "year": 2022,
-      "dealer_id": 2,
+      "dealerId": 2,
       "mileage": 6000
   },
   {
@@ -52,7 +52,7 @@
       "model": "Telluride",
       "bodyType": "SUV",
       "year": 2021,
-      "dealer_id": 11,
+      "dealerId": 11,
       "mileage": 3000
   },
   {
@@ -60,7 +60,7 @@
       "model": "Q5",
       "bodyType": "SUV",
       "year": 2020,
-      "dealer_id": 18,
+      "dealerId": 18,
       "mileage": 20000
   },
   {
@@ -68,7 +68,7 @@
       "model": "C-Class",
       "bodyType": "Sedan",
       "year": 2023,
-      "dealer_id": 25,
+      "dealerId": 25,
       "mileage": 7000
   },
   {
@@ -76,7 +76,7 @@
       "model": "Highlander",
       "bodyType": "SUV",
       "year": 2022,
-      "dealer_id": 33,
+      "dealerId": 33,
       "mileage": 15000
   },
   {
@@ -84,7 +84,7 @@
     "model": "Altima",
     "bodyType": "Sedan",
     "year": 2022,
-    "dealer_id": 5,
+    "dealerId": 5,
     "mileage": 18000
 },
 {
@@ -92,7 +92,7 @@
     "model": "Sportage",
     "bodyType": "SUV",
     "year": 2021,
-    "dealer_id": 12,
+    "dealerId": 12,
     "mileage": 12000
 },
 {
@@ -100,7 +100,7 @@
     "model": "A3",
     "bodyType": "Hatchback",
     "year": 2020,
-    "dealer_id": 19,
+    "dealerId": 19,
     "mileage": 8000
 },
 {
@@ -108,7 +108,7 @@
     "model": "E-Class",
     "bodyType": "Sedan",
     "year": 2023,
-    "dealer_id": 26,
+    "dealerId": 26,
     "mileage": 3000
 },
 {
@@ -116,7 +116,7 @@
     "model": "RAV4",
     "bodyType": "SUV",
     "year": 2022,
-    "dealer_id": 35,
+    "dealerId": 35,
     "mileage": 25000
 },
 {
@@ -124,7 +124,7 @@
     "model": "Maxima",
     "bodyType": "Sedan",
     "year": 2021,
-    "dealer_id": 3,
+    "dealerId": 3,
     "mileage": 10000
 },
 {
@@ -132,7 +132,7 @@
     "model": "Cadenza",
     "bodyType": "Sedan",
     "year": 2020,
-    "dealer_id": 14,
+    "dealerId": 14,
     "mileage": 15000
 },
 {
@@ -140,7 +140,7 @@
     "model": "Q7",
     "bodyType": "SUV",
     "year": 2023,
-    "dealer_id": 21,
+    "dealerId": 21,
     "mileage": 5000
 },
 {
@@ -148,7 +148,7 @@
     "model": "GLC",
     "bodyType": "SUV",
     "year": 2022,
-    "dealer_id": 28,
+    "dealerId": 28,
     "mileage": 7000
 },
 {
@@ -156,7 +156,7 @@
     "model": "Corolla",
     "bodyType": "Sedan",
     "year": 2021,
-    "dealer_id": 38,
+    "dealerId": 38,
     "mileage": 12000
 },
 {
@@ -164,7 +164,7 @@
     "model": "Murano",
     "bodyType": "SUV",
     "year": 2020,
-    "dealer_id": 6,
+    "dealerId": 6,
     "mileage": 20000
 },
 {
@@ -172,7 +172,7 @@
     "model": "Optima",
     "bodyType": "Sedan",
     "year": 2023,
-    "dealer_id": 16,
+    "dealerId": 16,
     "mileage": 4000
 },
 {
@@ -180,7 +180,7 @@
     "model": "S5",
     "bodyType": "Coupe",
     "year": 2022,
-    "dealer_id": 23,
+    "dealerId": 23,
     "mileage": 6000
 },
 {
@@ -188,7 +188,7 @@
     "model": "S-Class",
     "bodyType": "Sedan",
     "year": 2021,
-    "dealer_id": 30,
+    "dealerId": 30,
     "mileage": 9000
 },
 {
@@ -196,7 +196,7 @@
     "model": "Sienna",
     "bodyType": "Minivan",
     "year": 2020,
-    "dealer_id": 41,
+    "dealerId": 41,
     "mileage": 30000
 },
 {
@@ -204,7 +204,7 @@
     "model": "370Z",
     "bodyType": "Coupe",
     "year": 2023,
-    "dealer_id": 8,
+    "dealerId": 8,
     "mileage": 1500
 },
 {
@@ -212,7 +212,7 @@
     "model": "Rio",
     "bodyType": "Hatchback",
     "year": 2022,
-    "dealer_id": 18,
+    "dealerId": 18,
     "mileage": 18000
 },
 {
@@ -220,7 +220,7 @@
     "model": "TT",
     "bodyType": "Convertible",
     "year": 2021,
-    "dealer_id": 25,
+    "dealerId": 25,
     "mileage": 10000
 },
 {
@@ -228,7 +228,7 @@
     "model": "CLA",
     "bodyType": "Sedan",
     "year": 2020,
-    "dealer_id": 33,
+    "dealerId": 33,
     "mileage": 22000
 },
 {
@@ -236,7 +236,7 @@
     "model": "Tacoma",
     "bodyType": "Pickup",
     "year": 2023,
-    "dealer_id": 45,
+    "dealerId": 45,
     "mileage": 8000
 },  
 {
@@ -244,7 +244,7 @@
   "model": "Versa",
   "bodyType": "Sedan",
   "year": 2022,
-  "dealer_id": 10,
+  "dealerId": 10,
   "mileage": 14000
 },
 {
@@ -252,7 +252,7 @@
   "model": "Stinger",
   "bodyType": "Sedan",
   "year": 2021,
-  "dealer_id": 22,
+  "dealerId": 22,
   "mileage": 18000
 },
 {
@@ -260,7 +260,7 @@
   "model": "A5",
   "bodyType": "Convertible",
   "year": 2020,
-  "dealer_id": 28,
+  "dealerId": 28,
   "mileage": 10000
 },
 {
@@ -268,7 +268,7 @@
   "model": "GLA",
   "bodyType": "SUV",
   "year": 2023,
-  "dealer_id": 35,
+  "dealerId": 35,
   "mileage": 5000
 },
 {
@@ -276,7 +276,7 @@
   "model": "Prius",
   "bodyType": "Hatchback",
   "year": 2022,
-  "dealer_id": 42,
+  "dealerId": 42,
   "mileage": 12000
 },
 {
@@ -284,7 +284,7 @@
   "model": "Armada",
   "bodyType": "SUV",
   "year": 2021,
-  "dealer_id": 2,
+  "dealerId": 2,
   "mileage": 8000
 },
 {
@@ -292,7 +292,7 @@
   "model": "Niro",
   "bodyType": "SUV",
   "year": 2020,
-  "dealer_id": 12,
+  "dealerId": 12,
   "mileage": 15000
 },
 {
@@ -300,7 +300,7 @@
   "model": "Q3",
   "bodyType": "SUV",
   "year": 2023,
-  "dealer_id": 19,
+  "dealerId": 19,
   "mileage": 3000
 },
 {
@@ -308,7 +308,7 @@
   "model": "GLE Coupe",
   "bodyType": "SUV",
   "year": 2022,
-  "dealer_id": 25,
+  "dealerId": 25,
   "mileage": 7000
 },
 {
@@ -316,7 +316,7 @@
   "model": "Avalon",
   "bodyType": "Sedan",
   "year": 2021,
-  "dealer_id": 30,
+  "dealerId": 30,
   "mileage": 10000
 },
 {
@@ -324,7 +324,7 @@
   "model": "Sentra",
   "bodyType": "Sedan",
   "year": 2020,
-  "dealer_id": 7,
+  "dealerId": 7,
   "mileage": 20000
 },
 {
@@ -332,7 +332,7 @@
   "model": "Soul",
   "bodyType": "Hatchback",
   "year": 2023,
-  "dealer_id": 15,
+  "dealerId": 15,
   "mileage": 4000
 },
 {
@@ -340,7 +340,7 @@
   "model": "S7",
   "bodyType": "Sedan",
   "year": 2022,
-  "dealer_id": 23,
+  "dealerId": 23,
   "mileage": 6000
 },
 {
@@ -348,7 +348,7 @@
   "model": "GLB",
   "bodyType": "SUV",
   "year": 2021,
-  "dealer_id": 31,
+  "dealerId": 31,
   "mileage": 9000
 },
 {
@@ -356,7 +356,7 @@
   "model": "4Runner",
   "bodyType": "SUV",
   "year": 2020,
-  "dealer_id": 38,
+  "dealerId": 38,
   "mileage": 25000
 },
 {
@@ -364,7 +364,7 @@
   "model": "Juke",
   "bodyType": "SUV",
   "year": 2023,
-  "dealer_id": 9,
+  "dealerId": 9,
   "mileage": 1500
 },
 {
@@ -372,7 +372,7 @@
   "model": "Forte",
   "bodyType": "Sedan",
   "year": 2022,
-  "dealer_id": 18,
+  "dealerId": 18,
   "mileage": 17000
 },
 {
@@ -380,7 +380,7 @@
   "model": "Q8",
   "bodyType": "SUV",
   "year": 2021,
-  "dealer_id": 26,
+  "dealerId": 26,
   "mileage": 11000
 },
 {
@@ -388,7 +388,7 @@
   "model": "A-Class",
   "bodyType": "Sedan",
   "year": 2020,
-  "dealer_id": 33,
+  "dealerId": 33,
   "mileage": 22000
 },
 {
@@ -396,7 +396,7 @@
   "model": "Tundra",
   "bodyType": "Pickup",
   "year": 2023,
-  "dealer_id": 46,
+  "dealerId": 46,
   "mileage": 7500
 },
 {
@@ -404,7 +404,7 @@
   "model": "Versa",
   "bodyType": "Sedan",
   "year": 2021,
-  "dealer_id": 9,
+  "dealerId": 9,
   "mileage": 15000
 },
 {
@@ -412,7 +412,7 @@
   "model": "Forte",
   "bodyType": "Sedan",
   "year": 2020,
-  "dealer_id": 19,
+  "dealerId": 19,
   "mileage": 12000
 },
 {
@@ -420,7 +420,7 @@
   "model": "Q3",
   "bodyType": "SUV",
   "year": 2023,
-  "dealer_id": 26,
+  "dealerId": 26,
   "mileage": 8000
 },
 {
@@ -428,7 +428,7 @@
   "model": "A-Class",
   "bodyType": "Sedan",
   "year": 2022,
-  "dealer_id": 34,
+  "dealerId": 34,
   "mileage": 3000
 },
 {
@@ -436,7 +436,7 @@
   "model": "Prius",
   "bodyType": "Hatchback",
   "year": 2021,
-  "dealer_id": 40,
+  "dealerId": 40,
   "mileage": 25000
 },
 {
@@ -444,7 +444,7 @@
   "model": "Sentra",
   "bodyType": "Sedan",
   "year": 2020,
-  "dealer_id": 5,
+  "dealerId": 5,
   "mileage": 10000
 },
 {
@@ -452,7 +452,7 @@
   "model": "Niro",
   "bodyType": "SUV",
   "year": 2023,
-  "dealer_id": 14,
+  "dealerId": 14,
   "mileage": 15000
 },
 {
@@ -460,7 +460,7 @@
   "model": "A6",
   "bodyType": "Sedan",
   "year": 2022,
-  "dealer_id": 21,
+  "dealerId": 21,
   "mileage": 5000
 },
 {
@@ -468,7 +468,7 @@
   "model": "GLA",
   "bodyType": "SUV",
   "year": 2021,
-  "dealer_id": 28,
+  "dealerId": 28,
   "mileage": 7000
 },
 {
@@ -476,7 +476,7 @@
   "model": "Yaris",
   "bodyType": "Hatchback",
   "year": 2020,
-  "dealer_id": 37,
+  "dealerId": 37,
   "mileage": 12000
 },
 {
@@ -484,7 +484,7 @@
   "model": "Cube",
   "bodyType": "Hatchback",
   "year": 2023,
-  "dealer_id": 7,
+  "dealerId": 7,
   "mileage": 20000
 },
 {
@@ -492,7 +492,7 @@
   "model": "Stinger",
   "bodyType": "Sedan",
   "year": 2022,
-  "dealer_id": 17,
+  "dealerId": 17,
   "mileage": 4000
 },
 {
@@ -500,7 +500,7 @@
   "model": "A5",
   "bodyType": "Convertible",
   "year": 2021,
-  "dealer_id": 24,
+  "dealerId": 24,
   "mileage": 6000
 },
 {
@@ -508,7 +508,7 @@
   "model": "GLS",
   "bodyType": "SUV",
   "year": 2020,
-  "dealer_id": 32,
+  "dealerId": 32,
   "mileage": 9000
 },
 {
@@ -516,7 +516,7 @@
   "model": "4Runner",
   "bodyType": "SUV",
   "year": 2023,
-  "dealer_id": 43,
+  "dealerId": 43,
   "mileage": 30000
 },
 {
@@ -524,7 +524,7 @@
   "model": "Juke",
   "bodyType": "SUV",
   "year": 2022,
-  "dealer_id": 10,
+  "dealerId": 10,
   "mileage": 1500
 },
 {
@@ -532,7 +532,7 @@
   "model": "Soul",
   "bodyType": "Hatchback",
   "year": 2021,
-  "dealer_id": 20,
+  "dealerId": 20,
   "mileage": 18000
 },
 {
@@ -540,7 +540,7 @@
   "model": "Q8",
   "bodyType": "SUV",
   "year": 2020,
-  "dealer_id": 27,
+  "dealerId": 27,
   "mileage": 10000
 },
 {
@@ -548,7 +548,7 @@
   "model": "AMG GT",
   "bodyType": "Coupe",
   "year": 2023,
-  "dealer_id": 36,
+  "dealerId": 36,
   "mileage": 22000
 },
 {
@@ -556,7 +556,7 @@
   "model": "Avalon",
   "bodyType": "Sedan",
   "year": 2022,
-  "dealer_id": 47,
+  "dealerId": 47,
   "mileage": 8000
 },
 {
@@ -564,7 +564,7 @@
   "model": "Armada",
   "bodyType": "SUV",
   "year": 2021,
-  "dealer_id": 12,
+  "dealerId": 12,
   "mileage": 22000
 },
 {
@@ -572,7 +572,7 @@
   "model": "Telluride",
   "bodyType": "SUV",
   "year": 2020,
-  "dealer_id": 21,
+  "dealerId": 21,
   "mileage": 18000
 },
 {
@@ -580,7 +580,7 @@
   "model": "S3",
   "bodyType": "Sedan",
   "year": 2023,
-  "dealer_id": 28,
+  "dealerId": 28,
   "mileage": 8000
 },
 {
@@ -588,7 +588,7 @@
   "model": "M-Class",
   "bodyType": "SUV",
   "year": 2022,
-  "dealer_id": 37,
+  "dealerId": 37,
   "mileage": 3000
 },
 {
@@ -596,7 +596,7 @@
   "model": "Land Cruiser",
   "bodyType": "SUV",
   "year": 2021,
-  "dealer_id": 44,
+  "dealerId": 44,
   "mileage": 25000
 },
 {
@@ -604,7 +604,7 @@
   "model": "370Z",
   "bodyType": "Coupe",
   "year": 2020,
-  "dealer_id": 5,
+  "dealerId": 5,
   "mileage": 10000
 },
 {
@@ -612,7 +612,7 @@
   "model": "Rio",
   "bodyType": "Hatchback",
   "year": 2023,
-  "dealer_id": 15,
+  "dealerId": 15,
   "mileage": 15000
 },
 {
@@ -620,7 +620,7 @@
   "model": "Q5",
   "bodyType": "SUV",
   "year": 2022,
-  "dealer_id": 22,
+  "dealerId": 22,
   "mileage": 5000
 },
 {
@@ -628,7 +628,7 @@
   "model": "C-Class",
   "bodyType": "Sedan",
   "year": 2021,
-  "dealer_id": 29,
+  "dealerId": 29,
   "mileage": 7000
 },
 {
@@ -636,7 +636,7 @@
   "model": "Highlander",
   "bodyType": "SUV",
   "year": 2020,
-  "dealer_id": 38,
+  "dealerId": 38,
   "mileage": 12000
 },
 {
@@ -644,7 +644,7 @@
   "model": "Versa",
   "bodyType": "Sedan",
   "year": 2023,
-  "dealer_id": 6,
+  "dealerId": 6,
   "mileage": 20000
 },
 {
@@ -652,7 +652,7 @@
   "model": "Seltos",
   "bodyType": "SUV",
   "year": 2022,
-  "dealer_id": 16,
+  "dealerId": 16,
   "mileage": 4000
 },
 {
@@ -660,7 +660,7 @@
   "model": "A4",
   "bodyType": "Sedan",
   "year": 2021,
-  "dealer_id": 23,
+  "dealerId": 23,
   "mileage": 6000
 },
 {
@@ -668,7 +668,7 @@
   "model": "GLE",
   "bodyType": "SUV",
   "year": 2020,
-  "dealer_id": 30,
+  "dealerId": 30,
   "mileage": 9000
 },
 {
@@ -676,7 +676,7 @@
   "model": "Camry",
   "bodyType": "Sedan",
   "year": 2023,
-  "dealer_id": 39,
+  "dealerId": 39,
   "mileage": 30000
 },
 {
@@ -684,7 +684,7 @@
   "model": "Rogue",
   "bodyType": "SUV",
   "year": 2022,
-  "dealer_id": 7,
+  "dealerId": 7,
   "mileage": 1500
 },
 {
@@ -692,7 +692,7 @@
   "model": "Telluride",
   "bodyType": "SUV",
   "year": 2021,
-  "dealer_id": 17,
+  "dealerId": 17,
   "mileage": 18000
 },
 {
@@ -700,7 +700,7 @@
   "model": "Q3",
   "bodyType": "SUV",
   "year": 2020,
-  "dealer_id": 24,
+  "dealerId": 24,
   "mileage": 10000
 },
 {
@@ -708,7 +708,7 @@
   "model": "GLC",
   "bodyType": "SUV",
   "year": 2023,
-  "dealer_id": 33,
+  "dealerId": 33,
   "mileage": 22000
 },
 {
@@ -716,7 +716,7 @@
   "model": "Corolla",
   "bodyType": "Sedan",
   "year": 2022,
-  "dealer_id": 46,
+  "dealerId": 46,
   "mileage": 8000
 },
 {
@@ -724,7 +724,7 @@
   "model": "Murano",
   "bodyType": "SUV",
   "year": 2021,
-  "dealer_id": 8,
+  "dealerId": 8,
   "mileage": 18000
 },
 {
@@ -732,7 +732,7 @@
   "model": "Optima",
   "bodyType": "Sedan",
   "year": 2020,
-  "dealer_id": 18,
+  "dealerId": 18,
   "mileage": 12000
 },
 {
@@ -740,7 +740,7 @@
   "model": "S5",
   "bodyType": "Coupe",
   "year": 2023,
-  "dealer_id": 25,
+  "dealerId": 25,
   "mileage": 6000
 },
 {
@@ -748,7 +748,7 @@
   "model": "S-Class",
   "bodyType": "Sedan",
   "year": 2022,
-  "dealer_id": 34,
+  "dealerId": 34,
   "mileage": 9000
 },
 {
@@ -756,7 +756,7 @@
   "model": "Sienna",
   "bodyType": "Minivan",
   "year": 2021,
-  "dealer_id": 43,
+  "dealerId": 43,
   "mileage": 30000
 },
 {
@@ -764,7 +764,7 @@
   "model": "Altima",
   "bodyType": "Sedan",
   "year": 2020,
-  "dealer_id": 9,
+  "dealerId": 9,
   "mileage": 15000
 },
 {
@@ -772,7 +772,7 @@
   "model": "Sportage",
   "bodyType": "SUV",
   "year": 2023,
-  "dealer_id": 19,
+  "dealerId": 19,
   "mileage": 12000
 },
 {
@@ -780,7 +780,7 @@
   "model": "A3",
   "bodyType": "Hatchback",
   "year": 2022,
-  "dealer_id": 26,
+  "dealerId": 26,
   "mileage": 8000
 },
 {
@@ -788,7 +788,7 @@
   "model": "E-Class",
   "bodyType": "Sedan",
   "year": 2021,
-  "dealer_id": 35,
+  "dealerId": 35,
   "mileage": 3000
 },
 {
@@ -796,7 +796,7 @@
   "model": "RAV4",
   "bodyType": "SUV",
   "year": 2020,
-  "dealer_id": 42,
+  "dealerId": 42,
   "mileage": 25000
 },
 {
@@ -804,7 +804,7 @@
   "model": "Maxima",
   "bodyType": "Sedan",
   "year": 2023,
-  "dealer_id": 11,
+  "dealerId": 11,
   "mileage": 10000
 },
 {
@@ -812,7 +812,7 @@
   "model": "Cadenza",
   "bodyType": "Sedan",
   "year": 2022,
-  "dealer_id": 20,
+  "dealerId": 20,
   "mileage": 15000
 },
 {
@@ -820,7 +820,7 @@
   "model": "Q7",
   "bodyType": "SUV",
   "year": 2021,
-  "dealer_id": 27,
+  "dealerId": 27,
   "mileage": 5000
 },
 {
@@ -828,7 +828,7 @@
   "model": "GLC",
   "bodyType": "SUV",
   "year": 2020,
-  "dealer_id": 36,
+  "dealerId": 36,
   "mileage": 7000
 },
 {
@@ -836,7 +836,7 @@
   "model": "Yaris",
   "bodyType": "Hatchback",
   "year": 2023,
-  "dealer_id": 45,
+  "dealerId": 45,
   "mileage": 12000
 },
 {
@@ -844,7 +844,7 @@
   "model": "Cube",
   "bodyType": "Hatchback",
   "year": 2022,
-  "dealer_id": 13,
+  "dealerId": 13,
   "mileage": 20000
 },
 {
@@ -852,7 +852,7 @@
   "model": "Stinger",
   "bodyType": "Sedan",
   "year": 2021,
-  "dealer_id": 22,
+  "dealerId": 22,
   "mileage": 4000
 },
 {
@@ -860,7 +860,7 @@
   "model": "A5",
   "bodyType": "Convertible",
   "year": 2020,
-  "dealer_id": 29,
+  "dealerId": 29,
   "mileage": 6000
 },
 {
@@ -868,7 +868,7 @@
   "model": "GLS",
   "bodyType": "SUV",
   "year": 2023,
-  "dealer_id": 38,
+  "dealerId": 38,
   "mileage": 9000
 },
 {
@@ -876,7 +876,7 @@
   "model": "4Runner",
   "bodyType": "SUV",
   "year": 2022,
-  "dealer_id": 47,
+  "dealerId": 47,
   "mileage": 30000
 },
 {
@@ -884,7 +884,7 @@
   "model": "Juke",
   "bodyType": "SUV",
   "year": 2021,
-  "dealer_id": 14,
+  "dealerId": 14,
   "mileage": 1500
 },
 {
@@ -892,7 +892,7 @@
   "model": "Soul",
   "bodyType": "Hatchback",
   "year": 2020,
-  "dealer_id": 23,
+  "dealerId": 23,
   "mileage": 18000
 },
 {
@@ -900,7 +900,7 @@
   "model": "TT",
   "bodyType": "Convertible",
   "year": 2023,
-  "dealer_id": 30,
+  "dealerId": 30,
   "mileage": 10000
 },
 {
@@ -908,7 +908,7 @@
   "model": "CLA",
   "bodyType": "Sedan",
   "year": 2022,
-  "dealer_id": 39,
+  "dealerId": 39,
   "mileage": 22000
 },
 {
@@ -916,7 +916,7 @@
   "model": "Tacoma",
   "bodyType": "Pickup",
   "year": 2021,
-  "dealer_id": 48,
+  "dealerId": 48,
   "mileage": 8000
 },
 {
@@ -924,7 +924,7 @@
   "model": "Versa",
   "bodyType": "Sedan",
   "year": 2020,
-  "dealer_id": 15,
+  "dealerId": 15,
   "mileage": 15000
 },
 {
@@ -932,7 +932,7 @@
   "model": "Forte",
   "bodyType": "Sedan",
   "year": 2023,
-  "dealer_id": 24,
+  "dealerId": 24,
   "mileage": 12000
 },
 {
@@ -940,7 +940,7 @@
   "model": "Q3",
   "bodyType": "SUV",
   "year": 2022,
-  "dealer_id": 31,
+  "dealerId": 31,
   "mileage": 8000
 },
 {
@@ -948,7 +948,7 @@
   "model": "A-Class",
   "bodyType": "Sedan",
   "year": 2021,
-  "dealer_id": 40,
+  "dealerId": 40,
   "mileage": 3000
 },
 {
@@ -956,7 +956,7 @@
   "model": "Prius",
   "bodyType": "Hatchback",
   "year": 2020,
-  "dealer_id": 49,
+  "dealerId": 49,
   "mileage": 25000
 },
 {
@@ -964,7 +964,7 @@
   "model": "Armada",
   "bodyType": "SUV",
   "year": 2022,
-  "dealer_id": 1,
+  "dealerId": 1,
   "mileage": 22000
 },
 {
@@ -972,7 +972,7 @@
   "model": "Stinger",
   "bodyType": "Sedan",
   "year": 2021,
-  "dealer_id": 8,
+  "dealerId": 8,
   "mileage": 18000
 },
 {
@@ -980,7 +980,7 @@
   "model": "S3",
   "bodyType": "Sedan",
   "year": 2023,
-  "dealer_id": 15,
+  "dealerId": 15,
   "mileage": 8000
 },
 {
@@ -988,7 +988,7 @@
   "model": "M-Class",
   "bodyType": "SUV",
   "year": 2022,
-  "dealer_id": 22,
+  "dealerId": 22,
   "mileage": 3000
 },
 {
@@ -996,7 +996,7 @@
   "model": "Land Cruiser",
   "bodyType": "SUV",
   "year": 2021,
-  "dealer_id": 29,
+  "dealerId": 29,
   "mileage": 25000
 },
 {
@@ -1004,7 +1004,7 @@
   "model": "370Z",
   "bodyType": "Coupe",
   "year": 2020,
-  "dealer_id": 6,
+  "dealerId": 6,
   "mileage": 10000
 },
 {
@@ -1012,7 +1012,7 @@
   "model": "Rio",
   "bodyType": "Hatchback",
   "year": 2023,
-  "dealer_id": 16,
+  "dealerId": 16,
   "mileage": 15000
 },
 {
@@ -1020,7 +1020,7 @@
   "model": "Q5",
   "bodyType": "SUV",
   "year": 2022,
-  "dealer_id": 23,
+  "dealerId": 23,
   "mileage": 5000
 },
 {
@@ -1028,7 +1028,7 @@
   "model": "C-Class",
   "bodyType": "Sedan",
   "year": 2021,
-  "dealer_id": 30,
+  "dealerId": 30,
   "mileage": 7000
 },
 {
@@ -1036,7 +1036,7 @@
   "model": "Highlander",
   "bodyType": "SUV",
   "year": 2020,
-  "dealer_id": 39,
+  "dealerId": 39,
   "mileage": 12000
 },
 {
@@ -1044,7 +1044,7 @@
   "model": "Versa",
   "bodyType": "Sedan",
   "year": 2023,
-  "dealer_id": 7,
+  "dealerId": 7,
   "mileage": 20000
 },
 {
@@ -1052,7 +1052,7 @@
   "model": "Seltos",
   "bodyType": "SUV",
   "year": 2022,
-  "dealer_id": 17,
+  "dealerId": 17,
   "mileage": 4000
 },
 {
@@ -1060,7 +1060,7 @@
   "model": "A4",
   "bodyType": "Sedan",
   "year": 2021,
-  "dealer_id": 24,
+  "dealerId": 24,
   "mileage": 6000
 },
 {
@@ -1068,7 +1068,7 @@
   "model": "GLE",
   "bodyType": "SUV",
   "year": 2020,
-  "dealer_id": 31,
+  "dealerId": 31,
   "mileage": 9000
 },
 {
@@ -1076,7 +1076,7 @@
   "model": "Camry",
   "bodyType": "Sedan",
   "year": 2023,
-  "dealer_id": 40,
+  "dealerId": 40,
   "mileage": 30000
 },
 {
@@ -1084,7 +1084,7 @@
   "model": "Rogue",
   "bodyType": "SUV",
   "year": 2022,
-  "dealer_id": 8,
+  "dealerId": 8,
   "mileage": 1500
 },
 {
@@ -1092,7 +1092,7 @@
   "model": "Telluride",
   "bodyType": "SUV",
   "year": 2021,
-  "dealer_id": 18,
+  "dealerId": 18,
   "mileage": 18000
 },
 {
@@ -1100,7 +1100,7 @@
   "model": "Q3",
   "bodyType": "SUV",
   "year": 2020,
-  "dealer_id": 25,
+  "dealerId": 25,
   "mileage": 10000
 },
 {
@@ -1108,7 +1108,7 @@
   "model": "GLC",
   "bodyType": "SUV",
   "year": 2023,
-  "dealer_id": 34,
+  "dealerId": 34,
   "mileage": 22000
 },
 {
@@ -1116,7 +1116,7 @@
   "model": "Corolla",
   "bodyType": "Sedan",
   "year": 2022,
-  "dealer_id": 47,
+  "dealerId": 47,
   "mileage": 8000
 },
 {
@@ -1124,7 +1124,7 @@
   "model": "Murano",
   "bodyType": "SUV",
   "year": 2021,
-  "dealer_id": 9,
+  "dealerId": 9,
   "mileage": 18000
 },
 {
@@ -1132,7 +1132,7 @@
   "model": "Optima",
   "bodyType": "Sedan",
   "year": 2020,
-  "dealer_id": 19,
+  "dealerId": 19,
   "mileage": 12000
 },
 {
@@ -1140,7 +1140,7 @@
   "model": "S5",
   "bodyType": "Coupe",
   "year": 2023,
-  "dealer_id": 26,
+  "dealerId": 26,
   "mileage": 6000
 },
 {
@@ -1148,7 +1148,7 @@
   "model": "S-Class",
   "bodyType": "Sedan",
   "year": 2022,
-  "dealer_id": 35,
+  "dealerId": 35,
   "mileage": 9000
 },
 {
@@ -1156,7 +1156,7 @@
   "model": "Sienna",
   "bodyType": "Minivan",
   "year": 2021,
-  "dealer_id": 44,
+  "dealerId": 44,
   "mileage": 30000
 },
 {
@@ -1164,7 +1164,7 @@
   "model": "Altima",
   "bodyType": "Sedan",
   "year": 2020,
-  "dealer_id": 10,
+  "dealerId": 10,
   "mileage": 15000
 },
 {
@@ -1172,7 +1172,7 @@
   "model": "Sportage",
   "bodyType": "SUV",
   "year": 2023,
-  "dealer_id": 20,
+  "dealerId": 20,
   "mileage": 12000
 },
 {
@@ -1180,7 +1180,7 @@
   "model": "A3",
   "bodyType": "Hatchback",
   "year": 2022,
-  "dealer_id": 27,
+  "dealerId": 27,
   "mileage": 8000
 },
 {
@@ -1188,7 +1188,7 @@
   "model": "E-Class",
   "bodyType": "Sedan",
   "year": 2021,
-  "dealer_id": 36,
+  "dealerId": 36,
   "mileage": 3000
 },
 {
@@ -1196,7 +1196,7 @@
   "model": "RAV4",
   "bodyType": "SUV",
   "year": 2020,
-  "dealer_id": 43,
+  "dealerId": 43,
   "mileage": 25000
 },
 {
@@ -1204,7 +1204,7 @@
   "model": "Maxima",
   "bodyType": "Sedan",
   "year": 2023,
-  "dealer_id": 11,
+  "dealerId": 11,
   "mileage": 10000
 },
 {
@@ -1212,7 +1212,7 @@
   "model": "Cadenza",
   "bodyType": "Sedan",
   "year": 2022,
-  "dealer_id": 21,
+  "dealerId": 21,
   "mileage": 15000
 },
 {
@@ -1220,7 +1220,7 @@
   "model": "Q7",
   "bodyType": "SUV",
   "year": 2021,
-  "dealer_id": 28,
+  "dealerId": 28,
   "mileage": 5000
 },
 {
@@ -1228,7 +1228,7 @@
   "model": "GLC",
   "bodyType": "SUV",
   "year": 2020,
-  "dealer_id": 37,
+  "dealerId": 37,
   "mileage": 7000
 },
 {
@@ -1236,7 +1236,7 @@
   "model": "Yaris",
   "bodyType": "Hatchback",
   "year": 2023,
-  "dealer_id": 46,
+  "dealerId": 46,
   "mileage": 12000
 },
 {
@@ -1244,7 +1244,7 @@
   "model": "Cube",
   "bodyType": "Hatchback",
   "year": 2022,
-  "dealer_id": 13,
+  "dealerId": 13,
   "mileage": 20000
 },
 {
@@ -1252,7 +1252,7 @@
   "model": "Stinger",
   "bodyType": "Sedan",
   "year": 2021,
-  "dealer_id": 22,
+  "dealerId": 22,
   "mileage": 4000
 },
 {
@@ -1260,7 +1260,7 @@
   "model": "A5",
   "bodyType": "Convertible",
   "year": 2020,
-  "dealer_id": 29,
+  "dealerId": 29,
   "mileage": 6000
 },
 {
@@ -1268,7 +1268,7 @@
   "model": "GLS",
   "bodyType": "SUV",
   "year": 2023,
-  "dealer_id": 38,
+  "dealerId": 38,
   "mileage": 9000
 },
 {
@@ -1276,7 +1276,7 @@
   "model": "4Runner",
   "bodyType": "SUV",
   "year": 2022,
-  "dealer_id": 47,
+  "dealerId": 47,
   "mileage": 30000
 },
 {
@@ -1284,7 +1284,7 @@
   "model": "Juke",
   "bodyType": "SUV",
   "year": 2021,
-  "dealer_id": 14,
+  "dealerId": 14,
   "mileage": 1500
 },
 {
@@ -1292,7 +1292,7 @@
   "model": "Soul",
   "bodyType": "Hatchback",
   "year": 2020,
-  "dealer_id": 23,
+  "dealerId": 23,
   "mileage": 18000
 },
 {
@@ -1300,7 +1300,7 @@
   "model": "TT",
   "bodyType": "Convertible",
   "year": 2023,
-  "dealer_id": 30,
+  "dealerId": 30,
   "mileage": 10000
 },
 {
@@ -1308,7 +1308,7 @@
   "model": "CLA",
   "bodyType": "Sedan",
   "year": 2022,
-  "dealer_id": 39,
+  "dealerId": 39,
   "mileage": 22000
 },
 {
@@ -1316,7 +1316,7 @@
   "model": "Tacoma",
   "bodyType": "Pickup",
   "year": 2021,
-  "dealer_id": 48,
+  "dealerId": 48,
   "mileage": 8000
 },
 {
@@ -1324,7 +1324,7 @@
   "model": "Versa",
   "bodyType": "Sedan",
   "year": 2020,
-  "dealer_id": 15,
+  "dealerId": 15,
   "mileage": 15000
 },
 {
@@ -1332,7 +1332,7 @@
   "model": "Forte",
   "bodyType": "Sedan",
   "year": 2023,
-  "dealer_id": 24,
+  "dealerId": 24,
   "mileage": 12000
 },
 {
@@ -1340,7 +1340,7 @@
   "model": "Q3",
   "bodyType": "SUV",
   "year": 2022,
-  "dealer_id": 31,
+  "dealerId": 31,
   "mileage": 8000
 },
 {
@@ -1348,7 +1348,7 @@
   "model": "A-Class",
   "bodyType": "Sedan",
   "year": 2021,
-  "dealer_id": 40,
+  "dealerId": 40,
   "mileage": 3000
 },
 {
@@ -1356,7 +1356,7 @@
   "model": "Prius",
   "bodyType": "Hatchback",
   "year": 2020,
-  "dealer_id": 49,
+  "dealerId": 49,
   "mileage": 25000
 },
 {
@@ -1364,7 +1364,7 @@
   "model": "Armada",
   "bodyType": "SUV",
   "year": 2022,
-  "dealer_id": 1,
+  "dealerId": 1,
   "mileage": 22000
 },
 {
@@ -1372,7 +1372,7 @@
   "model": "Stinger",
   "bodyType": "Sedan",
   "year": 2021,
-  "dealer_id": 8,
+  "dealerId": 8,
   "mileage": 18000
 },
 {
@@ -1380,7 +1380,7 @@
   "model": "S3",
   "bodyType": "Sedan",
   "year": 2023,
-  "dealer_id": 15,
+  "dealerId": 15,
   "mileage": 8000
 },
 {
@@ -1388,7 +1388,7 @@
   "model": "M-Class",
   "bodyType": "SUV",
   "year": 2022,
-  "dealer_id": 22,
+  "dealerId": 22,
   "mileage": 3000
 },
 {
@@ -1396,7 +1396,7 @@
   "model": "Land Cruiser",
   "bodyType": "SUV",
   "year": 2021,
-  "dealer_id": 29,
+  "dealerId": 29,
   "mileage": 25000
 },
 {
@@ -1404,7 +1404,7 @@
   "model": "370Z",
   "bodyType": "Coupe",
   "year": 2020,
-  "dealer_id": 6,
+  "dealerId": 6,
   "mileage": 10000
 },
 {
@@ -1412,7 +1412,7 @@
   "model": "Rio",
   "bodyType": "Hatchback",
   "year": 2023,
-  "dealer_id": 16,
+  "dealerId": 16,
   "mileage": 15000
 },
 {
@@ -1420,7 +1420,7 @@
   "model": "Q5",
   "bodyType": "SUV",
   "year": 2022,
-  "dealer_id": 23,
+  "dealerId": 23,
   "mileage": 5000
 },
 {
@@ -1428,7 +1428,7 @@
   "model": "C-Class",
   "bodyType": "Sedan",
   "year": 2021,
-  "dealer_id": 30,
+  "dealerId": 30,
   "mileage": 7000
 },
 {
@@ -1436,7 +1436,7 @@
   "model": "Highlander",
   "bodyType": "SUV",
   "year": 2020,
-  "dealer_id": 39,
+  "dealerId": 39,
   "mileage": 12000
 },
 {
@@ -1444,7 +1444,7 @@
   "model": "Versa",
   "bodyType": "Sedan",
   "year": 2023,
-  "dealer_id": 7,
+  "dealerId": 7,
   "mileage": 20000
 },
 {
@@ -1452,7 +1452,7 @@
   "model": "Seltos",
   "bodyType": "SUV",
   "year": 2022,
-  "dealer_id": 17,
+  "dealerId": 17,
   "mileage": 4000
 },
 {
@@ -1460,7 +1460,7 @@
   "model": "A4",
   "bodyType": "Sedan",
   "year": 2021,
-  "dealer_id": 24,
+  "dealerId": 24,
   "mileage": 6000
 },
 {
@@ -1468,7 +1468,7 @@
   "model": "GLE",
   "bodyType": "SUV",
   "year": 2020,
-  "dealer_id": 31,
+  "dealerId": 31,
   "mileage": 9000
 },
 {
@@ -1476,7 +1476,7 @@
   "model": "Camry",
   "bodyType": "Sedan",
   "year": 2023,
-  "dealer_id": 40,
+  "dealerId": 40,
   "mileage": 30000
 },
 {
@@ -1484,7 +1484,7 @@
   "model": "Rogue",
   "bodyType": "SUV",
   "year": 2022,
-  "dealer_id": 8,
+  "dealerId": 8,
   "mileage": 1500
 },
 {
@@ -1492,7 +1492,7 @@
   "model": "Telluride",
   "bodyType": "SUV",
   "year": 2021,
-  "dealer_id": 18,
+  "dealerId": 18,
   "mileage": 18000
 },
 {
@@ -1500,7 +1500,7 @@
   "model": "Q3",
   "bodyType": "SUV",
   "year": 2020,
-  "dealer_id": 25,
+  "dealerId": 25,
   "mileage": 10000
 },
 {
@@ -1508,7 +1508,7 @@
   "model": "GLC",
   "bodyType": "SUV",
   "year": 2023,
-  "dealer_id": 34,
+  "dealerId": 34,
   "mileage": 22000
 },
 {
@@ -1516,7 +1516,7 @@
   "model": "Corolla",
   "bodyType": "Sedan",
   "year": 2022,
-  "dealer_id": 47,
+  "dealerId": 47,
   "mileage": 8000
 },
 {
@@ -1524,7 +1524,7 @@
   "model": "Murano",
   "bodyType": "SUV",
   "year": 2021,
-  "dealer_id": 9,
+  "dealerId": 9,
   "mileage": 18000
 },
 {
@@ -1532,7 +1532,7 @@
   "model": "Optima",
   "bodyType": "Sedan",
   "year": 2020,
-  "dealer_id": 19,
+  "dealerId": 19,
   "mileage": 12000
 },
 {
@@ -1540,7 +1540,7 @@
   "model": "S5",
   "bodyType": "Coupe",
   "year": 2023,
-  "dealer_id": 26,
+  "dealerId": 26,
   "mileage": 6000
 },
 {
@@ -1548,7 +1548,7 @@
   "model": "S-Class",
   "bodyType": "Sedan",
   "year": 2022,
-  "dealer_id": 35,
+  "dealerId": 35,
   "mileage": 9000
 },
 {
@@ -1556,7 +1556,7 @@
   "model": "Sienna",
   "bodyType": "Minivan",
   "year": 2021,
-  "dealer_id": 44,
+  "dealerId": 44,
   "mileage": 30000
 },
 {
@@ -1564,7 +1564,7 @@
   "model": "Altima",
   "bodyType": "Sedan",
   "year": 2020,
-  "dealer_id": 10,
+  "dealerId": 10,
   "mileage": 15000
 },
 {
@@ -1572,7 +1572,7 @@
   "model": "Sportage",
   "bodyType": "SUV",
   "year": 2023,
-  "dealer_id": 20,
+  "dealerId": 20,
   "mileage": 12000
 },
 {
@@ -1580,7 +1580,7 @@
   "model": "A3",
   "bodyType": "Hatchback",
   "year": 2022,
-  "dealer_id": 27,
+  "dealerId": 27,
   "mileage": 8000
 },
 {
@@ -1588,7 +1588,7 @@
   "model": "E-Class",
   "bodyType": "Sedan",
   "year": 2021,
-  "dealer_id": 36,
+  "dealerId": 36,
   "mileage": 3000
 },
 {
@@ -1596,7 +1596,7 @@
   "model": "RAV4",
   "bodyType": "SUV",
   "year": 2020,
-  "dealer_id": 43,
+  "dealerId": 43,
   "mileage": 25000
 },
 {
@@ -1604,7 +1604,7 @@
   "model": "Maxima",
   "bodyType": "Sedan",
   "year": 2023,
-  "dealer_id": 11,
+  "dealerId": 11,
   "mileage": 10000
 },
 {
@@ -1612,7 +1612,7 @@
   "model": "Cadenza",
   "bodyType": "Sedan",
   "year": 2022,
-  "dealer_id": 21,
+  "dealerId": 21,
   "mileage": 15000
 },
 {
@@ -1620,7 +1620,7 @@
   "model": "Q7",
   "bodyType": "SUV",
   "year": 2021,
-  "dealer_id": 28,
+  "dealerId": 28,
   "mileage": 5000
 },
 {
@@ -1628,7 +1628,7 @@
   "model": "GLC",
   "bodyType": "SUV",
   "year": 2020,
-  "dealer_id": 37,
+  "dealerId": 37,
   "mileage": 7000
 },
 {
@@ -1636,7 +1636,7 @@
   "model": "Yaris",
   "bodyType": "Hatchback",
   "year": 2023,
-  "dealer_id": 46,
+  "dealerId": 46,
   "mileage": 12000
 },
 {
@@ -1644,7 +1644,7 @@
   "model": "Cube",
   "bodyType": "Hatchback",
   "year": 2022,
-  "dealer_id": 13,
+  "dealerId": 13,
   "mileage": 20000
 },
 {
@@ -1652,7 +1652,7 @@
   "model": "Stinger",
   "bodyType": "Sedan",
   "year": 2021,
-  "dealer_id": 22,
+  "dealerId": 22,
   "mileage": 4000
 },
 {
@@ -1660,7 +1660,7 @@
   "model": "A5",
   "bodyType": "Convertible",
   "year": 2020,
-  "dealer_id": 29,
+  "dealerId": 29,
   "mileage": 6000
 },
 {
@@ -1668,7 +1668,7 @@
   "model": "GLS",
   "bodyType": "SUV",
   "year": 2023,
-  "dealer_id": 38,
+  "dealerId": 38,
   "mileage": 9000
 },
 {
@@ -1676,7 +1676,7 @@
   "model": "4Runner",
   "bodyType": "SUV",
   "year": 2022,
-  "dealer_id": 47,
+  "dealerId": 47,
   "mileage": 30000
 },
 {
@@ -1684,7 +1684,7 @@
   "model": "Juke",
   "bodyType": "SUV",
   "year": 2021,
-  "dealer_id": 14,
+  "dealerId": 14,
   "mileage": 1500
 },
 {
@@ -1692,7 +1692,7 @@
   "model": "Soul",
   "bodyType": "Hatchback",
   "year": 2020,
-  "dealer_id": 23,
+  "dealerId": 23,
   "mileage": 18000
 },
 {
@@ -1700,7 +1700,7 @@
   "model": "TT",
   "bodyType": "Convertible",
   "year": 2023,
-  "dealer_id": 30,
+  "dealerId": 30,
   "mileage": 10000
 },
 {
@@ -1708,7 +1708,7 @@
   "model": "CLA",
   "bodyType": "Sedan",
   "year": 2022,
-  "dealer_id": 39,
+  "dealerId": 39,
   "mileage": 22000
 }
 ]}

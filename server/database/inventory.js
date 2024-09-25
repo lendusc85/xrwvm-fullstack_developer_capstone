@@ -1,10 +1,9 @@
-const { Int32 } = require('mongodb');
 const mongoose = require('mongoose');
 
 const Schema = mongoose.Schema;
 
 const cars = new Schema({
-dealer_id: {
+dealerId: {
     type: Number,
     required: true
 },

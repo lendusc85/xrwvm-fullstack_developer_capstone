@@ -31,10 +31,10 @@ const dealerships = new Schema({
     type: String,
     required: true
   },
-  short_name: {
+  shortName: {
     type: String,
   },
-  full_name: {
+  fullName: {
     type: String,
     required: true
   }

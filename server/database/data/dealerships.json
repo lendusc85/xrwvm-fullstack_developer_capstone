@@ -9,8 +9,8 @@
       "zip": "88563",
       "lat": 31.6948,
       "long": -106.3,
-      "short_name": "Holdlamis",
-      "full_name": "Holdlamis Car Dealership"
+      "shortName": "Holdlamis",
+      "fullName": "Holdlamis Car Dealership"
     },
     {
       "id": 2,
@@ -21,8 +21,8 @@
       "zip": "55402",
       "lat": 44.9762,
       "long": -93.2759,
-      "short_name": "Temp",
-      "full_name": "Temp Car Dealership"
+      "shortName": "Temp",
+      "fullName": "Temp Car Dealership"
     },
     {
       "id": 3,
@@ -33,8 +33,8 @@
       "zip": "35285",
       "lat": 33.5446,
       "long": -86.9292,
-      "short_name": "Sub-Ex",
-      "full_name": "Sub-Ex Car Dealership"
+      "shortName": "Sub-Ex",
+      "fullName": "Sub-Ex Car Dealership"
     },
     {
       "id": 4,
@@ -45,8 +45,8 @@
       "zip": "75241",
       "lat": 32.6722,
       "long": -96.7774,
-      "short_name": "Solarbreeze",
-      "full_name": "Solarbreeze Car Dealership"
+      "shortName": "Solarbreeze",
+      "fullName": "Solarbreeze Car Dealership"
     },
     {
       "id": 5,
@@ -57,8 +57,8 @@
       "zip": "21203",
       "lat": 39.2847,
       "long": -76.6205,
-      "short_name": "Regrant",
-      "full_name": "Regrant Car Dealership"
+      "shortName": "Regrant",
+      "fullName": "Regrant Car Dealership"
     },
     {
       "id": 6,
@@ -69,8 +69,8 @@
       "zip": "18763",
       "lat": 41.2722,
       "long": -75.8801,
-      "short_name": "Stronghold",
-      "full_name": "Stronghold Car Dealership"
+      "shortName": "Stronghold",
+      "fullName": "Stronghold Car Dealership"
     },
     {
       "id": 7,
@@ -81,8 +81,8 @@
       "zip": "81010",
       "lat": 38.1286,
       "long": -104.5523,
-      "short_name": "Job",
-      "full_name": "Job Car Dealership"
+      "shortName": "Job",
+      "fullName": "Job Car Dealership"
     },
     {
       "id": 8,
@@ -93,8 +93,8 @@
       "zip": "66642",
       "lat": 39.0429,
       "long": -95.7697,
-      "short_name": "Bytecard",
-      "full_name": "Bytecard Car Dealership"
+      "shortName": "Bytecard",
+      "fullName": "Bytecard Car Dealership"
     },
     {
       "id": 9,
@@ -105,8 +105,8 @@
       "zip": "75216",
       "lat": 32.7086,
       "long": -96.7955,
-      "short_name": "Job",
-      "full_name": "Job Car Dealership"
+      "shortName": "Job",
+      "fullName": "Job Car Dealership"
     },
     {
       "id": 10,
@@ -117,8 +117,8 @@
       "zip": "20005",
       "lat": 38.9067,
       "long": -77.0312,
-      "short_name": "Alphazap",
-      "full_name": "Alphazap Car Dealership"
+      "shortName": "Alphazap",
+      "fullName": "Alphazap Car Dealership"
     },
     {
       "id": 11,
@@ -129,8 +129,8 @@
       "zip": "60351",
       "lat": 41.9166,
       "long": -88.1208,
-      "short_name": "Rank",
-      "full_name": "Rank Car Dealership"
+      "shortName": "Rank",
+      "fullName": "Rank Car Dealership"
     },
     {
       "id": 12,
@@ -141,8 +141,8 @@
       "zip": "20918",
       "lat": 39.144,
       "long": -77.2076,
-      "short_name": "Tin",
-      "full_name": "Tin Car Dealership"
+      "shortName": "Tin",
+      "fullName": "Tin Car Dealership"
     },
     {
       "id": 13,
@@ -153,8 +153,8 @@
       "zip": "21275",
       "lat": 39.2847,
       "long": -76.6205,
-      "short_name": "Y-Solowarm",
-      "full_name": "Y-Solowarm Car Dealership"
+      "shortName": "Y-Solowarm",
+      "fullName": "Y-Solowarm Car Dealership"
     },
     {
       "id": 14,
@@ -165,8 +165,8 @@
       "zip": "94147",
       "lat": 37.7848,
       "long": -122.7278,
-      "short_name": "It",
-      "full_name": "It Car Dealership"
+      "shortName": "It",
+      "fullName": "It Car Dealership"
     },
     {
       "id": 15,
@@ -177,8 +177,8 @@
       "zip": "78225",
       "lat": 29.3875,
       "long": -98.5245,
-      "short_name": "Tempsoft",
-      "full_name": "Tempsoft Car Dealership"
+      "shortName": "Tempsoft",
+      "fullName": "Tempsoft Car Dealership"
     },
     {
       "id": 16,
@@ -189,8 +189,8 @@
       "zip": "79994",
       "lat": 31.6948,
       "long": -106.3,
-      "short_name": "Treeflex",
-      "full_name": "Treeflex Car Dealership"
+      "shortName": "Treeflex",
+      "fullName": "Treeflex Car Dealership"
     },
     {
       "id": 17,
@@ -201,8 +201,8 @@
       "zip": "95138",
       "lat": 37.2602,
       "long": -121.7709,
-      "short_name": "Home Ing",
-      "full_name": "Home Ing Car Dealership"
+      "shortName": "Home Ing",
+      "fullName": "Home Ing Car Dealership"
     },
     {
       "id": 18,
@@ -213,8 +213,8 @@
       "zip": "90605",
       "lat": 33.9413,
       "long": -118.0356,
-      "short_name": "Bitchip",
-      "full_name": "Bitchip Car Dealership"
+      "shortName": "Bitchip",
+      "fullName": "Bitchip Car Dealership"
     },
     {
       "id": 19,
@@ -225,8 +225,8 @@
       "zip": "33013",
       "lat": 25.8594,
       "long": -80.2725,
-      "short_name": "Otcom",
-      "full_name": "Otcom Car Dealership"
+      "shortName": "Otcom",
+      "fullName": "Otcom Car Dealership"
     },
     {
       "id": 20,
@@ -237,8 +237,8 @@
       "zip": "48224",
       "lat": 42.4098,
       "long": -82.9441,
-      "short_name": "Subin",
-      "full_name": "Subin Car Dealership"
+      "shortName": "Subin",
+      "fullName": "Subin Car Dealership"
     },
     {
       "id": 21,
@@ -249,8 +249,8 @@
       "zip": "94154",
       "lat": 37.7848,
       "long": -122.7278,
-      "short_name": "Andalax",
-      "full_name": "Andalax Car Dealership"
+      "shortName": "Andalax",
+      "fullName": "Andalax Car Dealership"
     },
     {
       "id": 22,
@@ -261,8 +261,8 @@
       "zip": "33330",
       "lat": 26.0663,
       "long": -80.3339,
-      "short_name": "Y-Solowarm",
-      "full_name": "Y-Solowarm Car Dealership"
+      "shortName": "Y-Solowarm",
+      "fullName": "Y-Solowarm Car Dealership"
     },
     {
       "id": 23,
@@ -273,8 +273,8 @@
       "zip": "50936",
       "lat": 41.6727,
       "long": -93.5722,
-      "short_name": "Bitchip",
-      "full_name": "Bitchip Car Dealership"
+      "shortName": "Bitchip",
+      "fullName": "Bitchip Car Dealership"
     },
     {
       "id": 24,
@@ -285,8 +285,8 @@
       "zip": "13505",
       "lat": 43.0872,
       "long": -75.2603,
-      "short_name": "Aerified",
-      "full_name": "Aerified Car Dealership"
+      "shortName": "Aerified",
+      "fullName": "Aerified Car Dealership"
     },
     {
       "id": 25,
@@ -297,8 +297,8 @@
       "zip": "20580",
       "lat": 38.8933,
       "long": -77.0146,
-      "short_name": "Opela",
-      "full_name": "Opela Car Dealership"
+      "shortName": "Opela",
+      "fullName": "Opela Car Dealership"
     },
     {
       "id": 26,
@@ -309,8 +309,8 @@
       "zip": "15279",
       "lat": 40.4344,
       "long": -80.0248,
-      "short_name": "Flowdesk",
-      "full_name": "Flowdesk Car Dealership"
+      "shortName": "Flowdesk",
+      "fullName": "Flowdesk Car Dealership"
     },
     {
       "id": 27,
@@ -321,8 +321,8 @@
       "zip": "78245",
       "lat": 29.4189,
       "long": -98.6895,
-      "short_name": "Namfix",
-      "full_name": "Namfix Car Dealership"
+      "shortName": "Namfix",
+      "fullName": "Namfix Car Dealership"
     },
     {
       "id": 28,
@@ -333,8 +333,8 @@
       "zip": "33018",
       "lat": 25.9098,
       "long": -80.3889,
-      "short_name": "Fixflex",
-      "full_name": "Fixflex Car Dealership"
+      "shortName": "Fixflex",
+      "fullName": "Fixflex Car Dealership"
     },
     {
       "id": 29,
@@ -345,8 +345,8 @@
       "zip": "94110",
       "lat": 37.7509,
       "long": -122.4153,
-      "short_name": "Fix San",
-      "full_name": "Fix San Car Dealership"
+      "shortName": "Fix San",
+      "fullName": "Fix San Car Dealership"
     },
     {
       "id": 30,
@@ -357,8 +357,8 @@
       "zip": "77218",
       "lat": 29.834,
       "long": -95.4342,
-      "short_name": "Opela",
-      "full_name": "Opela Car Dealership"
+      "shortName": "Opela",
+      "fullName": "Opela Car Dealership"
     },
     {
       "id": 31,
@@ -369,8 +369,8 @@
       "zip": "10131",
       "lat": 40.7808,
       "long": -73.9772,
-      "short_name": "Fintone",
-      "full_name": "Fintone Car Dealership"
+      "shortName": "Fintone",
+      "fullName": "Fintone Car Dealership"
     },
     {
       "id": 32,
@@ -381,8 +381,8 @@
       "zip": "18768",
       "lat": 41.2722,
       "long": -75.8801,
-      "short_name": "Subin",
-      "full_name": "Subin Car Dealership"
+      "shortName": "Subin",
+      "fullName": "Subin Car Dealership"
     },
     {
       "id": 33,
@@ -393,8 +393,8 @@
       "zip": "50335",
       "lat": 41.6727,
       "long": -93.5722,
-      "short_name": "Tres-Zap",
-      "full_name": "Tres-Zap Car Dealership"
+      "shortName": "Tres-Zap",
+      "fullName": "Tres-Zap Car Dealership"
     },
     {
       "id": 34,
@@ -405,8 +405,8 @@
       "zip": "20904",
       "lat": 39.0668,
       "long": -76.9969,
-      "short_name": "Gembucket",
-      "full_name": "Gembucket Car Dealership"
+      "shortName": "Gembucket",
+      "fullName": "Gembucket Car Dealership"
     },
     {
       "id": 35,
@@ -417,8 +417,8 @@
       "zip": "98158",
       "lat": 47.4497,
       "long": -122.3076,
-      "short_name": "Treeflex",
-      "full_name": "Treeflex Car Dealership"
+      "shortName": "Treeflex",
+      "fullName": "Treeflex Car Dealership"
     },
     {
       "id": 36,
@@ -429,8 +429,8 @@
       "zip": "22184",
       "lat": 38.8318,
       "long": -77.2888,
-      "short_name": "Latlux",
-      "full_name": "Latlux Car Dealership"
+      "shortName": "Latlux",
+      "fullName": "Latlux Car Dealership"
     },
     {
       "id": 37,
@@ -441,8 +441,8 @@
       "zip": "48224",
       "lat": 42.4098,
       "long": -82.9441,
-      "short_name": "Ventosanzap",
-      "full_name": "Ventosanzap Car Dealership"
+      "shortName": "Ventosanzap",
+      "fullName": "Ventosanzap Car Dealership"
     },
     {
       "id": 38,
@@ -453,8 +453,8 @@
       "zip": "75226",
       "lat": 32.7887,
       "long": -96.7676,
-      "short_name": "Zamit",
-      "full_name": "Zamit Car Dealership"
+      "shortName": "Zamit",
+      "fullName": "Zamit Car Dealership"
     },
     {
       "id": 39,
@@ -465,8 +465,8 @@
       "zip": "93740",
       "lat": 36.7464,
       "long": -119.6397,
-      "short_name": "Stronghold",
-      "full_name": "Stronghold Car Dealership"
+      "shortName": "Stronghold",
+      "fullName": "Stronghold Car Dealership"
     },
     {
       "id": 40,
@@ -477,8 +477,8 @@
       "zip": "22119",
       "lat": 38.8318,
       "long": -77.2888,
-      "short_name": "Greenlam",
-      "full_name": "Greenlam Car Dealership"
+      "shortName": "Greenlam",
+      "fullName": "Greenlam Car Dealership"
     },
     {
       "id": 41,
@@ -489,8 +489,8 @@
       "zip": "21275",
       "lat": 39.2847,
       "long": -76.6205,
-      "short_name": "Tres-Zap",
-      "full_name": "Tres-Zap Car Dealership"
+      "shortName": "Tres-Zap",
+      "fullName": "Tres-Zap Car Dealership"
     },
     {
       "id": 42,
@@ -501,8 +501,8 @@
       "zip": "07310",
       "lat": 40.7324,
       "long": -74.0431,
-      "short_name": "Konklab",
-      "full_name": "Konklab Car Dealership"
+      "shortName": "Konklab",
+      "fullName": "Konklab Car Dealership"
     },
     {
       "id": 43,
@@ -513,8 +513,8 @@
       "zip": "31119",
       "lat": 33.8913,
       "long": -84.0746,
-      "short_name": "Opela",
-      "full_name": "Opela Car Dealership"
+      "shortName": "Opela",
+      "fullName": "Opela Car Dealership"
     },
     {
       "id": 44,
@@ -525,8 +525,8 @@
       "zip": "24014",
       "lat": 37.2327,
       "long": -79.9463,
-      "short_name": "Veribet",
-      "full_name": "Veribet Car Dealership"
+      "shortName": "Veribet",
+      "fullName": "Veribet Car Dealership"
     },
     {
       "id": 45,
@@ -537,8 +537,8 @@
       "zip": "23509",
       "lat": 36.8787,
       "long": -76.2604,
-      "short_name": "Konklux",
-      "full_name": "Konklux Car Dealership"
+      "shortName": "Konklux",
+      "fullName": "Konklux Car Dealership"
     },
     {
       "id": 46,
@@ -549,8 +549,8 @@
       "zip": "70165",
       "lat": 30.033,
       "long": -89.8826,
-      "short_name": "Regrant",
-      "full_name": "Regrant Car Dealership"
+      "shortName": "Regrant",
+      "fullName": "Regrant Car Dealership"
     },
     {
       "id": 47,
@@ -561,8 +561,8 @@
       "zip": "06905",
       "lat": 41.0888,
       "long": -73.5435,
-      "short_name": "Prodder",
-      "full_name": "Prodder Car Dealership"
+      "shortName": "Prodder",
+      "fullName": "Prodder Car Dealership"
     },
     {
       "id": 48,
@@ -573,8 +573,8 @@
       "zip": "85710",
       "lat": 32.2138,
       "long": -110.824,
-      "short_name": "It",
-      "full_name": "It Car Dealership"
+      "shortName": "It",
+      "fullName": "It Car Dealership"
     },
     {
       "id": 49,
@@ -585,8 +585,8 @@
       "zip": "30605",
       "lat": 33.9321,
       "long": -83.3525,
-      "short_name": "Veribet",
-      "full_name": "Veribet Car Dealership"
+      "shortName": "Veribet",
+      "fullName": "Veribet Car Dealership"
     },
     {
       "id": 50,
@@ -597,8 +597,8 @@
       "zip": "30316",
       "lat": 33.7217,
       "long": -84.3339,
-      "short_name": "Aerified",
-      "full_name": "Aerified Car Dealership"
+      "shortName": "Aerified",
+      "fullName": "Aerified Car Dealership"
     }
   ]
 }
